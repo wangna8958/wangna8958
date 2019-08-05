@@ -18,5 +18,5 @@ printf
 =======
 int a
 int b;
-int c;
-
+int t;
+int i;
