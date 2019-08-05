@@ -11,6 +11,12 @@ printf
 printf
 printf
 printf
+
+555555555
+8888888888
+99999999999999
+=======
 int a
 int b;
 int c;
+
