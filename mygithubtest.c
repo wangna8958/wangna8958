@@ -11,3 +11,6 @@ printf
 printf
 printf
 printf
+int a
+int b;
+int c;
